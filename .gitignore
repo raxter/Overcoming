@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-Library/
-=======
+
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
@@ -31,4 +29,3 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
->>>>>>> e66b6742b5628d86eff34ed29899eecec79aabb8
